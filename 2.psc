@@ -1,4 +1,4 @@
-Algoritmo Dos
+Algoritmo Ej_2
 	/// Indicar la cantidad de numeros positivos y negativos ingresados en 6 ingresos de datos
 	Definir num, numerosPositivos, numerosNegativos,i,cantidad Como Entero
 	

@@ -1,4 +1,4 @@
-Algoritmo Tres
+Algoritmo Ej_3
 /// Ordenar tres numeros de menor a mayor
 	Definir n1,n2,n3,pibot Como Entero;
 	
@@ -17,7 +17,7 @@ Algoritmo Tres
 		
 		pibot <- n2
 		n2 <- n3
-		n3 <- pÃ­bot
+		n3 <- píbot
 		
 	FinSi
 	

@@ -1,4 +1,4 @@
-Algoritmo Seis
+Algoritmo Ej_6
 	/// Ingresar numeros indefinidamente hasta ingresar el numero cero y contar la cantidad de numeros divisibles por dos
 	/// mostrar la cantidad de numeros no divisibles por dos
 	

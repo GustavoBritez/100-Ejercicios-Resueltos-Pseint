@@ -1,4 +1,4 @@
-Algoritmo Cuatro
+Algoritmo Ej_4
 	///  Pedir que se ingresen los nombres de alimentos " Zanahoria, Papa, Manzanas " y validar si fue correctamente escrito o no 
 	Definir Nombre Como Caracter
 	Definir Bandera Como Entero

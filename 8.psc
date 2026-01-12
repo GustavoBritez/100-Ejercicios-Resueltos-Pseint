@@ -1,4 +1,4 @@
-Algoritmo Ocho
+Algoritmo Ej_8
 	
 	///Ingresar N valores, calcular e imprimir el promedio de positivos, de negativos y cantidad de ceros
 	
@@ -17,11 +17,11 @@ Algoritmo Ocho
 	Leer N;
 	
 	Si N <= 0 Entonces
-		Escribir "La cantidad de valores debe ser un nÃºmero positivo. Terminando el algoritmo."
+		Escribir "La cantidad de valores debe ser un número positivo. Terminando el algoritmo."
 		
 	SiNo
 		Mientras contador <= N Hacer
-			Escribir "Ingrese el valor nÃºmero ", contador, ":";
+			Escribir "Ingrese el valor número ", contador, ":";
 			Leer numIngresado;
 			
 			Si numIngresado > 0 Entonces

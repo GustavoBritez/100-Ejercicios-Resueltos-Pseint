@@ -1,4 +1,4 @@
-Algoritmo Cinco
+Algoritmo Ej_5
 	//  Ingresar la cantidad de numeros que indique el usuario y calcular el promedio de los datos ingresados
 	Definir vecesRepeticion , promedio , contador, acumulador, num Como Entero;
 	

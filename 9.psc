@@ -1,9 +1,9 @@
-//Realizar un algoritmo para procesar los datos de N personas en un censo. Por cada persona se ingresar√° su edad y su g√©nero (1 para Femenino, 2 para Masculino). El programa debe mostrar al final:
-//El promedio de edad de las mujeres.
-//El promedio de edad de los hombres.
-//El porcentaje de personas menores de edad (menores de 18 a√±os) respecto al total.
+///Realizar un algoritmo para procesar los datos de N personas en un censo. Por cada persona se ingresar· su edad y su gÈnero (1 para Femenino, 2 para Masculino). El programa debe mostrar al final:
+///El promedio de edad de las mujeres.
+///El promedio de edad de los hombres.
+///El porcentaje de personas menores de edad (menores de 18 aÒos) respecto al total.
 
-Algoritmo CensoPoblacion
+Algoritmo Ej_9
 	Definir N, i, edad, genero Como Entero;
 	Definir sumaEdadMujeres, cantidadMujeres Como Entero;
 	Definir sumaEdadHombres, cantidadHombres Como Entero;
@@ -37,7 +37,7 @@ Algoritmo CensoPoblacion
 					sumaEdadHombres <- sumaEdadHombres + edad;
 					cantidadHombres <- cantidadHombres + 1;
 				SiNo
-					Escribir "Error: Genero no v√°lido ingresado.";
+					Escribir "Error: Genero no v·lido ingresado.";
 				FinSi
 			FinSi
 			
@@ -65,13 +65,13 @@ Algoritmo CensoPoblacion
 		Escribir "========================================";
 		
 		Si cantidadMujeres > 0 Entonces
-			Escribir "1. Promedio de edad de MUJERES: ", promedioMujeres, " a√±os.";
+			Escribir "1. Promedio de edad de MUJERES: ", promedioMujeres, " aÒos.";
 		SiNo
 			Escribir "1. Promedio de edad de MUJERES: No se ingresaron mujeres.";
 		FinSi
 		
 		Si cantidadHombres > 0 Entonces
-			Escribir "2. Promedio de edad de HOMBRES: ", promedioHombres, " a√±os.";
+			Escribir "2. Promedio de edad de HOMBRES: ", promedioHombres, " aÒos.";
 		SiNo
 			Escribir "2. Promedio de edad de HOMBRES: No se ingresaron hombres.";
 		FinSi

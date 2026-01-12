@@ -1,7 +1,7 @@
-Algoritmo Siete
-	/// Ingresar facturas hasta nro de factura = 0, sumar sus importes y cu√°ntas superan los $1000.imprimir los resultados
-	///Sobre el ejercicio anterior indicar cu√°ntas superan los $ 10000.-imprimir el resultado
-	///Sobre el ejercicio anterior indicar cu√°ntas estan entre $ 400 y $ 700 inclusive.imprimir el resultado
+Algoritmo Ej_7
+	/// Ingresar facturas hasta nro de factura = 0, sumar sus importes y cu·ntas superan los $1000.imprimir los resultados
+	///Sobre el ejercicio anterior indicar cu·ntas superan los $ 10000.-imprimir el resultado
+	///Sobre el ejercicio anterior indicar cu·ntas estan entre $ 400 y $ 700 inclusive.imprimir el resultado
 	
 	Definir nroFactura,cantidadFacturaMenos10000, cantidadFacturaEntre_400y700, cantidadFacturaMenos1000 Como Entero;
 	Definir importes , montoFactura Como Real;
