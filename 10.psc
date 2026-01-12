@@ -3,7 +3,7 @@ Algoritmo Ej_10
 	///sus ingresos familiares son menores a $2,000.
 	///Sin embargo, si el promedio es mayor a 95,
 	///la beca se otorga independientemente de los ingresos,
-	///a menos que el alumno ya tenga otra beca activa.
+	///a menos que el alumno ya tenga otra beca activa
 	Definir promedio, ingresos Como Real
     Definir tieneOtraBeca Como Logico
     
