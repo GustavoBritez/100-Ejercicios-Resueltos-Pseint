@@ -1,4 +1,4 @@
-Algoritmo OperacionesBasicas
+Algoritmo GeometriaDelCirculo
 	Definir radio como entero;
 	Definir area, long como Real;
 	
